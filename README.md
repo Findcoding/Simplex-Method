@@ -2,8 +2,8 @@
 Simplex Method Implementation in Java
 
 Suppose, we have:
-  Maximize Z = 40x1 + 30x2 
-  Subject to:
+  Maximize Z = 40x1 + 30x2 <br /> 
+  Subject to: <br />
           x1 + x2 ≤ 12
           2x1 + x2 ≤ 16
           x1≥0; x2≥0
