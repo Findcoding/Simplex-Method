@@ -8,7 +8,7 @@ Suppose, we have:
           2x1 + x2 ≤ 16 <br /> 
           x1≥0; x2≥0 <br /> 
           
-If you want to solve this problem then, simply run the simplex_method.java code and enter values in console as: <br /> 
+If you want to solve this problem then, simply run the simplex_method.java code and enter values in console as same as below: <br /> 
 
 Choose Problem Type: <br /> 
 		 1) Maximization Problem <br /> 
